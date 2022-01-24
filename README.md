@@ -4,8 +4,11 @@
 This contains all the assignments that we did for the Data Mining course at IIIT Delhi.
 
 Assignment 0 is an elementary assignment to make the students familiar with different modules prevalantly used in the assignments like numpy and pandas. 
+
 Assignment 1 contains an elaborative question on Decision Trees and makes us acquianted with the hyperparameters of a decision tree. We further need to implement SLIQ Pruning.
+
 Assignment 2 asks us to do the EDA of the given dataset and then build a movie recommender system. Along with this we need to visualise the maximal frequent itemsets.
+
 Assignment 3 is based on clustering. We visualise different clustering techniques and build a clustering model.
 
 The problem statements are given in the pdf in each assignment.
