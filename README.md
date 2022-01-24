@@ -13,6 +13,8 @@ Assignment 3 is based on clustering. We visualise different clustering technique
 
 The problem statements are given in the pdf in each assignment.
 
+## Kindly note that the datasets are not uploaded in the folders except Assignment 3 as the link to the datasets are available in the problem statement pdfs.
+
 # Steps to run
 - Upload the required python notebook in google colab [colab.research.google.com](colab.research.google.com)
 - Upload the required dataset.
